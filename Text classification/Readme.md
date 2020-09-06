@@ -4,7 +4,7 @@ There are two notebooks out of which one notebook namely *"Notebook 1 for Submis
 
 The following concepts of ML are used in these notebooks:
 * Parameter Tuning
-* ML Pipeline
+* ML Pipeline with custom transformers
 * TF-IDF at char and word level
 * Random Forest
 * Support Vector Classifiers
